@@ -1,8 +1,8 @@
 # HireVedic Advisory LLP
 
-**Strategic Talent Advisory for Future-Ready Institutions**
+**Transforming Talent Advisory for Tomorrow's Leaders Today!**
 
-HireVedic is a trusted talent and organisation advisory firm. We enable institutions to attract, assess, retain and grow high-quality talent through thoughtful advisory, risk-governed operations and sector-specific insights.
+Strategic HR consulting and talent advisory services that drive organizational excellence.
 
 ---
 
