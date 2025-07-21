@@ -1,16 +1,27 @@
-## Hi there 👋
+# HireVedic Advisory LLP
 
-<!--
-**HireVedic/HireVedic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Strategic Talent Advisory for Future-Ready Institutions**
 
-Here are some ideas to get you started:
+HireVedic is a trusted talent and organisation advisory firm. We enable institutions to attract, assess, retain and grow high-quality talent through thoughtful advisory, risk-governed operations and sector-specific insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 Services Offered
+
+- Executive Search
+- Talent Acquisition & Assessment
+- Leadership Development
+- HR Transformation
+- Organisation Development
+- Performance Optimisation
+- Workforce Analytics
+
+---
+
+## 💡 Values That Guide Us
+
+Integrity  
+Precision  
+Innovation  
+Accountability  
+Client-Centricity  
